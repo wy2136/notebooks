@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+echo After jupyter notebook is runing, 
+echo please run the following command in your local machine:
+echo "    ssh -N -L localhost:8888:localhost:8888 tigressdata"
+echo and open your browser at http://localhost:8888
+jupyter notebook --no-browser --port=8888 --ip=127.0.0.1
