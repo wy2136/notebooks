@@ -2,6 +2,6 @@
 
 ### [Control Runs](control_1860_volc6.ipynb)
 
-### Volcanic Impact on Climate
+### Volcanic Impact on Climate in the [FLOR](https://www.gfdl.noaa.gov/cm2-5-and-flor/) Model
 * [Surface Temperature](volcano_impact_on_climate_ts.ipynb)
 * [Precipitation](volcano_impact_on_climate_precip.ipynb)
