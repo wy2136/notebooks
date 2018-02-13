@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 echo After jupyter notebook is runing, 
 echo please run the following command in your local machine:
-echo "open -a safari http://localhost:8888; ssh -N -L localhost:8888:localhost:8888 tigressdata"
-#jupyter notebook --no-browser --port=8888 --ip=127.0.0.1
-jupyter notebook --no-browser --ip=127.0.0.1
+echo "open -a safari http://localhost:8888; ssh -N -L localhost:8888:localhost:8988 tigressdata"
+jupyter notebook --no-browser --port=8988 --ip=127.0.0.1
